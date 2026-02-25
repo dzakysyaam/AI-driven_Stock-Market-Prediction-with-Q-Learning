@@ -59,7 +59,7 @@ To get started with this project, follow these steps:
 4. Open the Jupyter Notebook file:
 
     ```bash
-    jupyter notebook stock_market_prediction.ipynb
+    jupyter notebook AI-driven Stock Market Prediction with Q-Learning.ipynb
     ```
 
 ## Project Structure
