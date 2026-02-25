@@ -72,5 +72,5 @@ AI-driven-Stock-Market-Prediction-with-Q-Learning/
 ├── stock_trading_env.py       # Custom Stock Trading Environment using Gym
 ├── q_learning_agent.py        # Q-Learning Agent Implementation
 ├── stock_data.csv             # Historical Stock Data (AAPL)
-├── stock_market_prediction.ipynb  # Jupyter Notebook for Stock Market Prediction
+├── AI-driven Stock Market Prediction with Q-Learning.ipynb  # Jupyter Notebook for AI-driven Stock Market Prediction with Q-Learning
 └── README.md                  # Project documentation
